@@ -1,0 +1,65 @@
+GraphoriDraw licenses
+
+Copyright (c) 2026 The Graphori authors
+
+GraphoriDraw has two parts with two licenses: the illustrations (CC BY 4.0) and
+the editor's code (MIT). The Graphori brand is not covered by either.
+
+
+1. Illustrations: Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+Applies to the GraphoriDraw illustration library: the illustrations offered in
+the editor at graphori.org/draw (bundled in its library.js file).
+
+You may use, adapt and share the illustrations for any purpose, including
+papers, theses, posters, slides, teaching material and commercial work, as long
+as you give credit. A line in the figure legend or in the acknowledgments is
+enough, for example:
+
+    Illustrations: GraphoriDraw (graphori.org/draw), CC BY 4.0.
+    Ilustrações: GraphoriDraw (graphori.org/draw), CC BY 4.0.
+
+If you changed an illustration, say so, for example:
+
+    Illustrations adapted from GraphoriDraw (graphori.org/draw), CC BY 4.0.
+
+Shapes, text, arrows and membranes that you draw yourself with the editor's
+tools are yours and need no credit. Screenshots and sample sheets of
+GraphoriDraw follow the same terms, except for the brand (section 3).
+
+Full license: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by/4.0/
+
+
+2. Code: MIT License
+
+Applies to the code of the GraphoriDraw editor (the HTML, CSS and JavaScript
+published at graphori.org/draw, except the illustrations in library.js) and to
+the R scripts that generate the illustration library.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+3. Brand
+
+The Graphori, GraphoriStat and GraphoriDraw names and logos and the four ghost
+mascots (for example the logo and ghost images of the editor) identify the
+project and are not covered by the licenses above. They may be redistributed
+only as part of unmodified copies of GraphoriDraw, and may not be used to
+identify other projects, products or services.
