@@ -9,7 +9,7 @@
 
 <p align="center">
   <b>A free figure editor for science that runs in your browser.</b><br>
-  Build publication-ready schematics from more than 400 original illustrations, membranes you draw yourself, arrows and text.<br>
+  Build publication-ready schematics from more than 560 original illustrations, membranes you draw yourself, arrows and text.<br>
   No account, no installation, no paid plan.
 </p>
 
@@ -44,7 +44,8 @@ Use it on a computer with a mouse, in an up-to-date browser such as Chrome, Edge
 
 ## What you can do
 
-- **Pick from the library.** More than 400 illustrations in 23 categories, from cells, proteins and organs to lab glassware, geology and the social sciences. Search in English or Portuguese, then click an illustration or drag it onto the page.
+- **Pick from the library.** More than 560 illustrations in 28 categories, from cells, proteins and organs to lab glassware, geology and the social sciences. Search in English or Portuguese, then click an illustration or drag it onto the page.
+- **Naturalist tab.** A second tab of the library with ink-and-colour plates of real species: plants, fungi, zoology and paleontology. Each plate is named by its scientific name and keeps its natural colors (they cannot be recolored). The plates are simplified representations and not anatomically accurate.
 - **Draw membranes.** The membrane tool draws a lipid bilayer or monolayer along your mouse: straight, any shape, or closed into a vesicle or a cell. Turn the outline into a mitochondrion with automatic cristae, mix 18 lipid classes (cholesterol, sphingomyelin, PE, cardiolipin and more) and add a legend.
 - **Make it yours.** Recolor every fill and outline, or double-click an illustration to move, resize and recolor its parts. That changes only your copy, never the library.
 - **Draw pathways.** Activation, inhibition (bar) and binding (dot) arrows, lines, and shapes for networks, with text inside them.
@@ -61,11 +62,20 @@ Use it on a computer with a mouse, in an up-to-date browser such as Chrome, Edge
   <img src="docs/library.png" alt="A sample of the GraphoriDraw library: cells, organelles, proteins, viruses, bacteria, organs, lab glassware, equipment and charts, all in the same style." width="900">
 </p>
 
-Every illustration is original, drawn by the Graphori team in one style: realistic structure, flat colors with a hint of volume, and a thin outline in a deeper tone of the same color, so they sit well together in a review-style figure.
+Every illustration is original, drawn by the Graphori team in one style: realistic structure, flat colors with a hint of volume, and a thin outline in a deeper tone of the same color, so they sit well together in a review-style figure. The Naturalist tab (below) is the one exception.
 
 - **Life sciences:** cells, organelles, membranes, proteins, tissues, organs, cancer, molecules, cell signaling, viruses, bacteria, protists and fungi, organisms.
 - **Lab and medicine:** samples, lab glassware, equipment, medicine.
 - **Other fields:** chemistry, geology, ecology and environment, social sciences, data and computing, plots.
+- **Naturalist (separate tab):** plants, fungi, zoology and paleontology.
+
+### Naturalist
+
+<p align="center">
+  <img src="docs/naturalist.png" alt="Eight Naturalist plates: Arabidopsis thaliana, fly agaric, button mushroom, Penicillium, monarch butterfly, zebrafish, trilobite and ammonite, drawn in an ink-and-colour natural-history style." width="900">
+</p>
+
+A freer, natural-history look: a hand-inked outline of varying width, a few flat tones, fine hatching for shadow and the natural colors of each species. Open the **Naturalist** tab above the library search. Illustrations are simplified representations and not anatomically accurate.
 
 ## Using the illustrations in your work
 
@@ -118,7 +128,7 @@ GraphoriDraw is made by [Graphori](https://graphori.org), an independent, non-pr
 
 ## Em português
 
-O **GraphoriDraw** é um editor gratuito de figuras científicas que roda no navegador, sem conta e sem instalação. Você monta esquemas com mais de 400 ilustrações originais em 23 categorias, desenha membranas lipídicas (e até mitocôndrias com cristas), acrescenta setas de ativação e inibição, textos e formas, e exporta em PNG, JPEG, SVG ou PDF, inclusive pôsteres em tamanho real (PDF e SVG). A interface está em inglês e português.
+O **GraphoriDraw** é um editor gratuito de figuras científicas que roda no navegador, sem conta e sem instalação. Você monta esquemas com mais de 560 ilustrações originais em 28 categorias (mais a aba Naturalista, com pranchas de espécies reais em estilo de tinta e cor, com nome científico e cores fixas; são representações simplificadas e não são anatomicamente precisas), desenha membranas lipídicas (e até mitocôndrias com cristas), acrescenta setas de ativação e inibição, textos e formas, e exporta em PNG, JPEG, SVG ou PDF, inclusive pôsteres em tamanho real (PDF e SVG). A interface está em inglês e português.
 
 - **Abrir o editor:** <https://graphori.org/draw/> (não precisa baixar nada).
 - **Sugestões e ilustrações que faltam:** clique no fantasminha no canto inferior direito do editor. As ilustrações são desenhadas pela equipe da Graphori; não recebemos desenhos de terceiros, mas desenhamos o que você pedir.
